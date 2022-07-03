@@ -1,4 +1,4 @@
-int pulse_in = 0;
+#define pulse_in 7
 int potPin = 2;
 int ontime,offtime,duty;
 float freq,period;
